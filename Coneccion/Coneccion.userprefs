@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Coneccion\MainWindow.cs">
+    <Files>
+      <File FileName="Coneccion\Program.cs" Line="1" Column="1" />
+      <File FileName="Coneccion\MainWindow.cs" Line="16" Column="37" />
+      <File FileName="Coneccion\datos.cs" Line="1" Column="1" />
+      <File FileName="Coneccion\Properties\Coneccion.cs" Line="1" Column="1" />
+      <File FileName="Coneccion\Properties\Acciones.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
